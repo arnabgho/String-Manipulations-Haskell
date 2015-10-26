@@ -1,0 +1,3 @@
+The aim of this course is to introduce the functional programming paradigm. Building and maintaining complex software requires a disciplined and modular approach to problem solving. Modern day functional programming offers significant advantage over imperative programming See " Why functional programming matters " when tackling complex programming tasks.
+
+Any first course has to introduce the theoretical foundations, like lambda-calculus, type inference that are central to functional programming. However, I believe that unless there is hands on experience, much of this knowledge has no impact on the way we create software and use it. There are two ways in which I have tried to incorporate these real world aspects.
